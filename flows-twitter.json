@@ -1,0 +1,1 @@
+[{"id":"8f1a5a3b.2ffe98","type":"function","z":"28078f97.ee187","name":"publica_twitter","func":"msg.payload = \"O vento está a mais de 80km/h, tome cuidado.\";\nreturn msg;\n\n\n","outputs":1,"noerr":0,"initialize":"","finalize":"","x":820,"y":860,"wires":[["e7747aa4.c894b8"]]}]
