@@ -25,7 +25,7 @@ Foram utilizados para o desenvolvimento do projeto: Com0Com, SimulIDE, Node-Red,
 
 ## Diagrama do projeto
 
-<img src="/imagem.PNG" width="250"> <img src="/imagem2.JPEG" width="250">
+<img src="/imagem.PNG" width="250"> <img src="/imagem2.jpeg" width="250">
 
 ## Como usar 
 
