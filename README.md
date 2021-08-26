@@ -48,12 +48,9 @@ Para clonar esse repositório:
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[NAC 4 - Estação Meteorológica](https://www.youtube.com/watch?v=KR_ZOCSi4BA)
 
 
 ### Referências 
 
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Canal Arnaldo Viana Jr.](https://www.youtube.com/channel/UCb6MEkxngDA5E1XBs_zULgQ)
