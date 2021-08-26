@@ -31,14 +31,18 @@ Foram utilizados para o desenvolvimente do projeto: Com0Com, SimulIDE, Node-Red,
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+* Link para instalar o [Com0Com](https://sourceforge.net/projects/com0com/)
 
-Ou qualquer outra tabulação:
+* Link para instalar o [SimulIde](https://www.simulide.com/p/downloads.html)
 
-- [x] Youtube
+* Link para instalar o [NodeJS LTS](https://nodejs.org/en/download/)
+Após a instalação abra o cmd e digite npm install -g --unsafe-perm node-red
+Abrira uma url para o acesso 
 
-Para clonar esse repositório:
+* Link passar acessar o [IBM Cloud](https://www.ibm.com/br-pt/cloud?p1=Search&p4=43700054913953751&p5=e&gclid=CjwKCAjw95yJBhAgEiwAmRrutMdXf2RZ53UaSt_7rcANxcpKgpxVYbwDkmON2THrv4wz6orTqbXRZxoCZxYQAvD_BwE&gclsrc=aw.ds)
+
+
+Após a instalação dos aplicativos clone o repositório:
 
     cd /home/nac
     git clone https://github.com/joaoviclps123/NAC-4.git
