@@ -18,7 +18,10 @@ Victor Fernando - RM85058
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+O projeto tem como objetivo desenvolver uma estação meteorológica que recebe as informações sobre vento, temperatura e 
+luminosidade de sensores e envia para um servidor que mostra as informações em um dashboard, e caso o vento passe de 80km/h 
+envia um alerta automaticamente via twitter, as informações ficam armazenadas em um banco de dados na cloud. 
+Foram utilizados para o desenvolvimente do projeto: Com0Com, SimulIDE, Node-Red, IBM Cloud e GitHub
 
 ## Diagrama do projeto
 
@@ -35,9 +38,9 @@ Ou qualquer outra tabulação:
 
 - [x] Youtube
 
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
+Para clonar esse repositório:
 
-    cd /home/iot
+    cd /home/nac
     git clone https://github.com/joaoviclps123/NAC-4.git
     cd nac4
     ls
