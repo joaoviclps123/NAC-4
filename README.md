@@ -22,8 +22,6 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
 <img src="/imagem.PNG" width="250"> <img src="/imagem.PNG" width="250">
 
 ## Como usar 
@@ -40,8 +38,8 @@ Ou qualquer outra tabulação:
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
     cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
+    git clone https://github.com/joaoviclps123/NAC-4.git
+    cd nac4
     ls
 
 
