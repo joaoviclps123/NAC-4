@@ -51,8 +51,8 @@ Após a instalação dos aplicativos clone o repositório:
     ls
 
 
-Abra os arquivos .ino, .simu e .hex no SimulIde e compile.
-Abra o arquivo .json no node-red coloque as extensões do dashboard e twitter e de um deploy. Para acessar o Dashboard coloque /ui no final da url
+Abra os arquivos .ino, .simu e .hex no SimulIde e compile.                                                                    
+Abra o arquivo .json no node-red coloque as extensões do dashboard e twitter e de um deploy. Para acessar o Dashboard coloque /ui no final da url                               
 e abra o twitter developer para ver os tweets
 
 ## Link de vídeo demonstração
