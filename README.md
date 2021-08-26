@@ -23,9 +23,9 @@ luminosidade de sensores e envia para um servidor que mostra as informações em
 envia um alerta automaticamente via twitter, as informações ficam armazenadas em um banco de dados na cloud. 
 Foram utilizados para o desenvolvimento do projeto: Com0Com, SimulIDE, Node-Red, IBM Cloud e GitHub
 
-## Diagrama do projeto
+## Diagramas do projeto
 
-<img src="/imagem.PNG" width="250"> <img src="/imagem2.jpeg" width="250">
+<img src="/imagem.PNG" width="250"> <img src="/imagem2.jpeg" width="340">
 
 ## Como usar 
 
