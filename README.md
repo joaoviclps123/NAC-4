@@ -29,8 +29,6 @@ Foram utilizados para o desenvolvimente do projeto: Com0Com, SimulIDE, Node-Red,
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
 * Link para instalar o [Com0Com](https://sourceforge.net/projects/com0com/)
 
 * Link para instalar o [SimulIde](https://www.simulide.com/p/downloads.html)
@@ -41,6 +39,9 @@ Abrira uma url para o acesso
 
 * Link passar acessar o [IBM Cloud](https://www.ibm.com/br-pt/cloud?p1=Search&p4=43700054913953751&p5=e&gclid=CjwKCAjw95yJBhAgEiwAmRrutMdXf2RZ53UaSt_7rcANxcpKgpxVYbwDkmON2THrv4wz6orTqbXRZxoCZxYQAvD_BwE&gclsrc=aw.ds)
 
+* Link para acessar o [Twitter Developer](https://developer.twitter.com/en/apps)
+
+
 
 Após a instalação dos aplicativos clone o repositório:
 
@@ -49,6 +50,10 @@ Após a instalação dos aplicativos clone o repositório:
     cd nac4
     ls
 
+
+Abra os arquivos .ino, .simu e .hex no SimulIde e compile.
+Abra o arquivo .json no node-red coloque as extensões do dashboard e twitter e de um deploy. Para acessar o Dashboard coloque /ui no final da url
+e abra o twitter developer para ver os tweets
 
 ## Link de vídeo demonstração
 
