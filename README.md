@@ -21,7 +21,7 @@ Victor Fernando - RM85058
 O projeto tem como objetivo desenvolver uma estação meteorológica que recebe as informações sobre vento, temperatura e 
 luminosidade de sensores e envia para um servidor que mostra as informações em um dashboard, e caso o vento passe de 80km/h 
 envia um alerta automaticamente via twitter, as informações ficam armazenadas em um banco de dados na cloud. 
-Foram utilizados para o desenvolvimente do projeto: Com0Com, SimulIDE, Node-Red, IBM Cloud e GitHub
+Foram utilizados para o desenvolvimento do projeto: Com0Com, SimulIDE, Node-Red, IBM Cloud e GitHub
 
 ## Diagrama do projeto
 
